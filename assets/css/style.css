@@ -30,7 +30,7 @@ header{
     margin: 0;
     margin-bottom: 20px;
     font-size: 30px;
-    background-color: ffffff;
+    background-color: #2345;
     text-align: left;
     /*border-bottom: 30px solid #2345;*/
 }
@@ -180,6 +180,5 @@ img{
     
 }
 
-/*Still need to add image links, and to buttons for when a user hovers their cursor over them
+/*Still need to add image links, and to buttons for when a user hovers their cursor over them */
 
-Need to fix the heading issue in CSS*/
