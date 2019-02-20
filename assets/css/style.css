@@ -19,9 +19,10 @@ body{
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif; 
     color: #333;
-    background: #FFEFD5;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
     font-size: 18px;
     line-height: 150%;
+    
 }
 
 header{    
@@ -29,7 +30,7 @@ header{
     margin: 0;
     margin-bottom: 20px;
     font-size: 30px;
-    background-color: white;
+    background-color: ffffff;
     text-align: left;
 }
 
@@ -81,7 +82,7 @@ footer {
     text-align: center;
     font-size: smaller;
     background: grey;
-    border-top: 8px solid #4aaaa5;
+    border-top: 8px solid #666666;
   }
 
 /*
@@ -94,7 +95,7 @@ Contact Page
     color: #4aaaa5;
     width: 70%;  
     margin: 25px auto 100px 250px;
-    background-color: white;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
     padding: 10px;
 }
 
@@ -144,7 +145,7 @@ Portfolio Page
     color: #4aaaa5;
     width: 70%;      
     margin: 25px auto 100px 250px;
-    background-color: white;
+    background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
     padding: 10px;   
     overflow:visible;    
     overflow-y: hidden; 
